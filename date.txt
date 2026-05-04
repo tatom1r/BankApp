@@ -1,0 +1,6 @@
+Cont,Ion Popescu,0
+ContCurent,Maria Ionescu,1500,2000
+ContEconomii,Andrei Popa,5000,4.5
+ContCurent,Elena Dumitrescu,200,500
+ContEconomii,Radu Gheorghe,0,2
+ContEconomii,Ana Stanescu,8000,5
